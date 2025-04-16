@@ -85,3 +85,8 @@ tools/FlameGraph
 modules/studio_connector
 
 #WORKSPACE
+
+__MACOSX
+
+/dev/
+/modules/perception/data/models/
